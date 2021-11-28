@@ -1,1 +1,1 @@
-# doosot_crolling
+# Doosot 프로젝트 중 기존 한솥 도시락의 매장정보를 크롤링 / Oracle DB에 저장하는 코드입니다.
